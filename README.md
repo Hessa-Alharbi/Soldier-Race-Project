@@ -1,4 +1,4 @@
-# Soldier-Race-Project
+
 ___
 
 <p style="text-align: center;"><img src="https://docs.google.com/uc?id=1lY0Uj5R04yMY3-ZppPWxqCr5pvBLYPnV" class="img-fluid" alt="CLRSWY"></p>
@@ -6,6 +6,7 @@ ___
 ___
 
 # WELCOME!
+## Soldier-Race-Project
 In this project, you must apply EDA processes for the development of predictive models. Handling outliers, domain knowledge and feature engineering will be challenges.
 
 Also, this project aims to improve your ability to implement algorithms for Multi-Class Classification. Thus, you will have the opportunity to implement many algorithms commonly used for Multi-Class Classification problems.
